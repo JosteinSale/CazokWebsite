@@ -9,6 +9,7 @@ const NavbarWrapper = styled.div`
   }
 
   a {
+    background-color: purple;
     margin-left: 16px;
     text-decoration: none;
     padding: 6px;
@@ -17,10 +18,6 @@ const NavbarWrapper = styled.div`
     line-height: 28px;
     display: inline-block; /* Enables enlargement */
     transition: all 0.2s ease-in-out;
-  }
-
-  a {
-    background-color: purple;
   }
 
   a:hover {
