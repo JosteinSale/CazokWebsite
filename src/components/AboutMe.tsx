@@ -8,7 +8,7 @@ const everhood1Text: string =
   "In 2020, Cazok contributed with 21 tracks to the musical rpg Everhood. Of these, 11 were made specifically for the game. Cazok's songs added to the game's eventual success, and the tracks 'Revenge' and 'Feisty Flowers' are currently amongst the top 5 most streamed tracks for the 97-song OST. Cazok also made a cameo appearance in the game, featuring a few lines of dialogue.";
 
 const everhood2Text: string =
-  "Following the success of Everhood a sequel was made, called Everhood 2. This time Cazok was the primary songwriter, composing and recording over [x] songs during 2021-2024. In addition Cazok appeared as an in-game boss that the player could fight. (Game has yet to be released).";
+  "Following the success of Everhood a sequel was made, called Everhood 2. This time Cazok was the primary songwriter, composing and recording over [x] songs during 2021-2024. He made a cameo appearance in the trailer released in 2023, where he was shown fighting the player. (Game has yet to be released).";
 
 const circusText: string =
   "Circus and Games is Cazok's solo project, where he plays all the instruments himself and also sings. The music has a fundament in rock, but draws influence from video games, classical-, metal- and dance music. There are currently two albums: Puppet Story (2019) and Cursed Carousel (2022). The band has a small, but dedicated fanbase.";
