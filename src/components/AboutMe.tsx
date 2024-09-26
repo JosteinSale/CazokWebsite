@@ -46,7 +46,7 @@ const AboutMe = () => {
         title="Everhood 2"
         src="cazok_everhood2.png"
         text={everhood2Text}
-        imageDescription="Cazok's cameo appearance in the Everhood 2 trailer"
+        imageDescription="Cazok's cameo in the Everhood 2 trailer"
       ></ImageText>
       <ImageText
         title="Circus and Games"
